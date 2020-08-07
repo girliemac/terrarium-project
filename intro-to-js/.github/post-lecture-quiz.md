@@ -18,7 +18,6 @@ You will need to complete the following learn module(s) to complete the quiz:
 - [ ] [Option 3]
 
 3. [Q3]
-   
 - [ ] [Option 1]
 - [ ] [Option 2]
 - [ ] [Option 3]

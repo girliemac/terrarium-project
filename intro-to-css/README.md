@@ -2,6 +2,10 @@
 
 ![video](video-url)
 
+[slides](slides.pptx)
+
+## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
+
 ### Introduction:
 
 CSS, or Cascading Style Sheets, solve an important problem of web development: how to make your web site look nice. Styling your apps makes them more usable and nicer-looking; you can also use CSS to create Responsive Web Design (RWD) - allowing your apps to look good no matter what screen size they are displayed on. CSS is not just about making your app look nice; its spec includes animations and transforms that can enable sophisticated interactions for your apps. The CSS Working Group helps maintain current CSS specifications; you can follow their work at [World Wide Web Consortium's site](https://www.w3.org/Style/CSS/members).
@@ -223,7 +227,7 @@ First, style the `.terrarium` div children as a rounded rectangle using CSS:
 	height: 5%;
 	background: #3a241d;
 	position: absolute;
-	border-radius: 0 0 3rem 3rem;
+	border-radius: 0 0 4rem 4rem;
 	bottom: 1%;
 	left: 21%;
 	opacity: 0.7;
@@ -240,6 +244,8 @@ Note the use of percentages here, even for the `border-radius`. If you scale you
 🚀Challenge: Add a 'bubble' shine to the left bottom area of the jar to make it look more glasslike. You will be styling the `.jar-glossy-long` and `.jar-glossy-short` to look like a reflected shine. Here's how it would look:
 
 ![finished terrarium](./images/terrarium-final.png)
+
+## [Post-lecture quiz](.github/post-lecture-quiz.md)
 
 ## Review & Self Study
 

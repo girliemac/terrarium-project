@@ -1,19 +1,18 @@
-*Complete this quiz in class*
+*A warm-up quiz about CSS*
 
-1. [Q1]
+Complete this quiz in class
 
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+1. HTML elements must have either a class or an id in order to be styled
 
-2. [Q2]
+- [ ] [true]
+- [ ] [false]
 
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+2. CSS stands for 'Complete Style Sheets'
 
-3. [Q3]
-   
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+- [ ] [true]
+- [ ] [false]
+
+3. CSS can be used to create animations
+
+- [ ] [true]
+- [ ] [false]
