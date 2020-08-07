@@ -198,8 +198,6 @@ Add this markup above the last `</div>` tag:
 </div>
 ```
 
-It's interesting to note that the terrarium seems to be built bottom-up: first the jar bottom, then the dirt, then the walls and finally the top. Why?
-
 ✅ Even though you added this markup to the screen, you see absolutely nothing render. Why?
 
 ---
