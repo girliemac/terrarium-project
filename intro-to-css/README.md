@@ -99,7 +99,7 @@ Add some style to layout the left and right containers. Since there is only one 
 
 ```
 #left-container {
-	background-color: #ccc;
+	background-color: #eee;
 	width: 15%;
 	left: 0px;
 	top: 0px;
@@ -109,7 +109,7 @@ Add some style to layout the left and right containers. Since there is only one 
 }
 
 #right-container {
-	background-color: #ccc;
+	background-color: #eee;
 	width: 15%;
 	right: 0px;
 	top: 0px;
