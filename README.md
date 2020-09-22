@@ -4,7 +4,15 @@ A simple drag and drop code-meditation. With just a little HTML, JS and CSS, you
 
 ![my terrarium](screenshot_gray.png)
 
+# Lessons
+
+[Intro to CSS](./intro-to-css/README.md)
+[Intro to HTML](./intro-to-html/README.md)
+[Intro to DOM and JS Closures](intro-to-DOM-and-js-closures/README.md)
+
 ## Credits
+
+Written with ♥️ by [Jen Looper](https://www.twitter.com/jenlooper)
 
 The terrarium created via CSS was inspired by Jakub Mandra's glass jar [codepen](https://codepen.io/Rotarepmi/pen/rjpNZY).
 
