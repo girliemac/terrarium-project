@@ -1,5 +1,8 @@
 # Terrarium Project Part 1: Introduction to HTML
 
+![HTML Overview](images/webdev101-html.png)
+> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+
 ![video](video-url)
 
 [slides](slides.pptx)
