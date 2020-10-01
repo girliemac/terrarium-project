@@ -253,6 +253,6 @@ CSS seems deceptively easy, but there are many challenges when trying to style a
 
 **Assignment Due [MM/YY]**: [Assignment Name](assignment.md)
 
-Complete the following learn module(s) to complete the quiz:
+Complete the following learn module(s) to complete the [post-lecture quiz](.github/post-lecture-quiz.md):
 
 [Style your HTML app with CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/4-css-basics)

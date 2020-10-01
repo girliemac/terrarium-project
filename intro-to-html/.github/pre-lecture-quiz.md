@@ -1,18 +1,19 @@
-*A warm-up quiz about CSS*
+*A warm-up quiz about HTML*
 
 Complete this quiz in class
 
-1. HTML elements must have either a class or an id in order to be styled
+1. HTML stands for 'HyperText Mockup Language'
 
 - [ ] [true]
 - [ ] [false]
 
-2. CSS stands for 'Complete Style Sheets'
+2. All HTML tags need both opening and closing tags
 
 - [ ] [true]
 - [ ] [false]
 
-3. CSS can be used to create animations 
+3. Using semantic markup is most important for 
 
-- [ ] [true]
-- [ ] [false]
+- [ ] [code readability]
+- [ ] [screen readers]
+- [ ] [maintenance]

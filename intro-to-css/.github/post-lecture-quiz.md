@@ -1,23 +1,21 @@
-*Complete this quiz along with your submission by checking one answer per question.*
+*Complete this quiz after the lesson by checking one answer per question.*
 
-You will need to complete the following learn module(s) to complete the quiz:
+You will need to reference the following learn module to complete the quiz:
 
-[Learn Link 1]()
-[Learn Link 2]()
+[Work with CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/4-css-basics)
 
-1. [Q1]
+1. [You can write CSS directly in the head section of your HTML file]
 
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+- [ ] [true]
+- [ ] [false]
 
-2. [Q2]
+1. [It's always necessary to include CSS in your app]
 
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+- [ ] [true]
+- [ ] [false]
+- [ ] [false, but if you want it to look good you need CSS]
 
-3. [Q3]
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+1. [Which browser tool can be used to inspect CSS?]
+- [ ] [Elements]
+- [ ] [Styles]
+- [ ] [Network]

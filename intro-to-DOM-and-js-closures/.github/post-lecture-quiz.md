@@ -1,23 +1,18 @@
-*Complete this quiz along with your submission by checking one answer per question.*
+*Complete this quiz after the lesson by checking one answer per question.*
 
-You will need to complete the following learn module(s) to complete the quiz:
+1. [The DOM is a model to represent a document on the web]
 
-[Learn Link 1]()
-[Learn Link 2]()
+- [ ] [true]
+- [ ] [false]
 
-1. [Q1]
+2. [Use JavaScript closures to perform the following:]
 
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+- [ ] [write functions within functions]
+- [ ] [enclose the DOM]
+- [ ] [close script blocks]
 
-2. [Q2]
+3. [Fill in the blank: Closures are useful when one or more functions need to access an outer function's ______]
 
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
-
-3. [Q3]
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+- [ ] [arrays]
+- [ ] [scope]
+- [ ] [functions]

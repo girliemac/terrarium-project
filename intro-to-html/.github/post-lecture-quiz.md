@@ -1,23 +1,17 @@
-*Complete this quiz along with your submission by checking one answer per question.*
+*Complete this quiz after the lesson by checking one answer per question.*
 
-You will need to complete the following learn module(s) to complete the quiz:
+1. [Spans and Divs are interchangeable]
 
-[Learn Link 1]()
-[Learn Link 2]()
+- [ ] [true]
+- [ ] [false]
 
-1. [Q1]
+2. [The head of an HTML doc can contain:]
 
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+- [ ] [the title tag]
+- [ ] [metadata]
+- [ ] [all the above]
 
-2. [Q2]
-
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
-
-3. [Q3]
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+3. [You can't use deprecated tags in your markup]
+- [ ] [true]
+- [ ] [false]
+- [ ] [false, but they have been deprecated for good reason]

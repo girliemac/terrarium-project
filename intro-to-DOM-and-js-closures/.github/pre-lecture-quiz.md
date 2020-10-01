@@ -1,18 +1,18 @@
-*A warm-up quiz about CSS*
+*A warm-up quiz about the DOM*
 
 Complete this quiz in class
 
-1. HTML elements must have either a class or an id in order to be styled
+1. The DOM stands for 'Document Object Management'
 
 - [ ] [true]
 - [ ] [false]
 
-2. CSS stands for 'Complete Style Sheets'
+2. The DOM can be thought of as a tree
 
 - [ ] [true]
 - [ ] [false]
 
-3. CSS can be used to create animations
+3. Using the Web API, you can manipulate the DOM
 
 - [ ] [true]
 - [ ] [false]
