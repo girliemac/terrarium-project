@@ -4,6 +4,9 @@
 
 [slides](slides.pptx)
 
+![Introduction to HTML](intro-to-html/images/webdev101-html.png)
+> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
 ### Introduction:
