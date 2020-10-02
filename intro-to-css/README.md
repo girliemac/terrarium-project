@@ -251,7 +251,7 @@ Note the use of percentages here, even for the `border-radius`. If you scale you
 
 CSS seems deceptively easy, but there are many challenges when trying to style an app perfectly for all browsers and all screen sizes. CSS-Grid and Flexbox are tools that have been developed to make the job a little easier and more reliable. Learn about these tools by playing [Flexbox Froggy](https://flexboxfroggy.com/) and [Grid Garden](https://codepip.com/games/grid-garden/).
 
-**Assignment Due [MM/YY]**: [Assignment Name](assignment.md)
+**Assignment**: [CSS Refactoring](assignment.md)
 
 Complete the following learn module(s) to complete the [post-lecture quiz](.github/post-lecture-quiz.md):
 

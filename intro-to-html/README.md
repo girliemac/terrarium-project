@@ -213,4 +213,4 @@ Add this markup above the last `</div>` tag:
 
 HTML is the 'tried and true' building block system that has helped build the web into what it is today. Learn a little about its history by studying some old and new tags. Can you figure out why some tags were deprecated and some added? What tags might be introduced in the future?
 
-**Assignment Due [MM/YY]**: [Assignment Name](assignment.md)
+**Assignment: [Practice your HTML: Build a blog mockup](assignment.md)

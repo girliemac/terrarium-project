@@ -202,5 +202,5 @@ Now you have completed your project!
 
 While dragging elements around the screen seems trivial, there are many ways to do this and many pitfalls, depending on the effect you seek. In fact, there is an entire [drag and drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) that you can try. We didn't use it in this module because the effect we wanted was somewhat different, but try this API on your own project and see what you can achieve.
 
-**Assignment Due [MM/YY]**: [Assignment Name](assignment.md)
+**Assignment: [Work a bit more with the DOM](assignment.md)
 
