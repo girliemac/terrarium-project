@@ -4,6 +4,9 @@
 
 [slides](slides.pptx)
 
+![Introduction to CSS](images/webdev101-css.png)
+> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
 ### Introduction:
