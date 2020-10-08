@@ -6,9 +6,9 @@ A simple drag and drop code-meditation. With just a little HTML, JS and CSS, you
 
 # Lessons
 
-[Intro to CSS](./intro-to-css/README.md)
-[Intro to HTML](./intro-to-html/README.md)
-[Intro to DOM and JS Closures](intro-to-DOM-and-js-closures/README.md)
+1. [Intro to CSS](./intro-to-css/README.md)
+2. [Intro to HTML](./intro-to-html/README.md)
+3. [Intro to DOM and JS Closures](intro-to-DOM-and-js-closures/README.md)
 
 ## Credits
 
