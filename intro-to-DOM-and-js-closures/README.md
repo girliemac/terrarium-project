@@ -2,8 +2,6 @@
 
 ![video](video-url)
 
-[slides](slides.pptx)
-
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
 ### Introduction:

@@ -2,8 +2,6 @@
 
 ![video](video-url)
 
-[slides](slides.pptx)
-
 ![Introduction to HTML](images/webdev101-html.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
