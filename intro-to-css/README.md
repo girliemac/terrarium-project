@@ -9,7 +9,7 @@
 
 ### Introduction:
 
-CSS, or Cascading Style Sheets, solve an important problem of web development: how to make your web site look nice. Styling your apps makes them more usable and nicer-looking; you can also use CSS to create Responsive Web Design (RWD) - allowing your apps to look good no matter what screen size they are displayed on. CSS is not just about making your app look nice; its spec includes animations and transforms that can enable sophisticated interactions for your apps. The CSS Working Group helps maintain current CSS specifications; you can follow their work at [World Wide Web Consortium's site](https://www.w3.org/Style/CSS/members).
+CSS, or Cascading Style Sheets, solve an important problem of web development: how to make your web site look nice. Styling your apps makes them more usable and nicer-looking; you can also use CSS to create Responsive Web Design (RWD) - allowing your apps to look good no matter what screen size they are displayed on. CSS is not only about making your app look nice; its spec includes animations and transforms that can enable sophisticated interactions for your apps. The CSS Working Group helps maintain current CSS specifications; you can follow their work at [World Wide Web Consortium's site](https://www.w3.org/Style/CSS/members).
 
 > Note, CSS is a language that evolves, like everything on the web, and not all browsers support newer parts of the specification. Always check your implementations by consulting [CanIUse.com](caniuse.com).
 
@@ -79,7 +79,7 @@ Open your browser's console to the 'Elements' tab and observe the H1's font. It 
 
 ### Tags
 
-So far, your `style.css` file has just a few tags styled, and the app looks pretty strange:
+So far, your `style.css` file has only a few tags styled, and the app looks pretty strange:
 
 ```
 body {
@@ -181,7 +181,7 @@ In our sample, the `plant-holder` is a relative-positioned element that is posit
 
 > The `plant` itself also has absolute positioning, necessary to making it draggable, as you will discover in the next lesson.
 
-✅ Tinker with switching the types of positioning of the side containers and the plant-holder. What happens?
+✅ Experiment with switching the types of positioning of the side containers and the plant-holder. What happens?
 
 ## 5. CSS Layouts
 
@@ -250,7 +250,7 @@ Note the use of percentages here, even for the `border-radius`. If you scale you
 
 ## Review & Self Study
 
-CSS seems deceptively easy, but there are many challenges when trying to style an app perfectly for all browsers and all screen sizes. CSS-Grid and Flexbox are tools that have been developed to make the job a little easier and more reliable. Learn about these tools by playing [Flexbox Froggy](https://flexboxfroggy.com/) and [Grid Garden](https://codepip.com/games/grid-garden/).
+CSS seems deceptively straightforward, but there are many challenges when trying to style an app perfectly for all browsers and all screen sizes. CSS-Grid and Flexbox are tools that have been developed to make the job a little more structured and more reliable. Learn about these tools by playing [Flexbox Froggy](https://flexboxfroggy.com/) and [Grid Garden](https://codepip.com/games/grid-garden/).
 
 **Assignment**: [CSS Refactoring](assignment.md)
 
