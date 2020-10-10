@@ -20,7 +20,7 @@ from an inner function." Create a closure so that you can track the dragged elem
 
 function dragElement(terrariumElement) {
 	//set 4 positions for positioning on the screen
-	var pos1 = 0,
+	let pos1 = 0,
 		pos2 = 0,
 		pos3 = 0,
 		pos4 = 0;

@@ -72,7 +72,7 @@ Closures are useful when one or more functions need to access an outer function'
 
 ```javascript
 function displayCandy(){
-	var candy = ['jellybeans];
+	let candy = ['jellybeans];
 	function addCandy(candyType) {
 		candy.push(candyType)
 	}
@@ -93,7 +93,7 @@ Under the element declarations in `script.js`, create a function:
 ```javascript
 function dragElement(terrariumElement) {
 	//set 4 positions for positioning on the screen
-	var pos1 = 0,
+	let pos1 = 0,
 		pos2 = 0,
 		pos3 = 0,
 		pos4 = 0;
