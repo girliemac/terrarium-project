@@ -2,6 +2,9 @@
 
 ![video](video-url)
 
+![DOM and a closure](images/webdev101-js.png)
+> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
 ### Introduction:
